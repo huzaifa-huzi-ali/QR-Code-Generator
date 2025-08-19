@@ -18,7 +18,8 @@ QR API – GoQR API for QR code generation
 
 
 📸 Preview
-(You can attach a screenshot of your project here)
+<img width="1085" height="883" alt="image" src="https://github.com/user-attachments/assets/db0fb4a4-fc19-4a20-ac64-0418d242023d" />
+
 
 
 📂 How to Use
